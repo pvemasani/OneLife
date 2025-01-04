@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E762EB6F2D27A44F000E3D26 /* OneLifeModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E762EB6D2D27A44F000E3D26 /* OneLifeModel.xcdatamodeld */; };
+		E762EB762D28B38D000E3D26 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E762EB752D28B38D000E3D26 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		E762EB432D279E62000E3D26 /* OneLifeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OneLifeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E762EB4D2D279E63000E3D26 /* OneLifeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OneLifeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E762EB6E2D27A44F000E3D26 /* OneLifeModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = OneLifeModel.xcdatamodel; sourceTree = "<group>"; };
+		E762EB752D28B38D000E3D26 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,6 +87,7 @@
 				E762EB462D279E62000E3D26 /* OneLifeTests */,
 				E762EB502D279E63000E3D26 /* OneLifeUITests */,
 				E762EB342D279E62000E3D26 /* Products */,
+				E762EB752D28B38D000E3D26 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -218,6 +221,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E762EB762D28B38D000E3D26 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
